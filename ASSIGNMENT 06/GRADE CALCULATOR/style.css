@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #74ebd5, #9face6);
+    text-align: center;
+    margin: 0;
+    padding-top: 150px;
+}
+
+/* BIG CENTER HEADING */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 40px;
+    font-size: 48px;      /* makes text big */
+    font-weight: bold;
+}
+
+/* BIG CENTER BUTTON */
+button {
+    padding: 18px 45px;  /* makes button bigger */
+    font-size: 22px;     /* big text inside button */
+    background-color: #27ae60;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+/* HOVER EFFECT */
+button:hover {
+    background-color: #219150;
+    transform: scale(1.05);   /* small zoom effect */
+}
