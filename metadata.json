@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Management System",
+  "description": "A robust backend-only inventory management API with in-memory storage, modular routing, and centralized error handling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
